@@ -1,0 +1,8 @@
+"Identify flood-prone areas near the Yamuna River in Delhi"
+"Calculate the forest cover change in Western Ghats between 2010-2020"
+"Find suitable locations for solar farms in Rajasthan based on land availability and solar radiation"
+"Analyze the impact of urbanization on water bodies in Bangalore"
+"Map agricultural land use changes in Punjab over the last decade"
+"Identify areas within 5km of Chennai coastline vulnerable to sea level rise"
+"Determine the optimal locations for new metro stations in Mumbai"
+"Compare vegetation health in drought-affected regions of Maharashtra"
