@@ -53,4 +53,4 @@ geo-cot-chatbot/
 | Future Expansion (Optional) | Add map support, real GIS processing (GeoPandas, QGIS, etc.)                     |
 
 
-making a readme is not complasury
+making a readme is not mandatory (because spellings matter) 🥲
